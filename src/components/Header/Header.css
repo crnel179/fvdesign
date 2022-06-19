@@ -1,0 +1,11 @@
+.toggle {
+    margin: 15px auto;
+    height: 50px;
+    width: 90%;
+    border: 1px solid #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: lightgray;
+    background-color: #ffa509;
+}
