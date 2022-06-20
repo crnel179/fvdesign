@@ -1,8 +1,11 @@
 .card {
-    height: 500px;
+    height: fit-content;
+    width: fit-content;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    border: 1px solid lightgray;
-    background-color: black;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 2px;
 }

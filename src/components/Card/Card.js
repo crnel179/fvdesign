@@ -4,11 +4,11 @@ import '../Card/Card.css';
 
 const Card = () => {
     return (
-        <Fragment className='card'>
+        <div className='card'>
             <Header label='Step 1: Your details' />
             <Header label='Step 2: More comments' />
             <Header label='Step 3: Final comments' />
-        </Fragment>
+        </div>
     );
 };
 
